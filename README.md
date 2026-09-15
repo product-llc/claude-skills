@@ -1,6 +1,8 @@
 # Claude skills by Alex Zapadenko
 
-Skill files that package a method from [product.inc/notes](https://www.product.inc/notes) into something you can run in Claude Code or claude.ai. Free, MIT, no gate.
+**UX audit skill for Claude** (`ux-audit`): A free Claude skill that does the findings pass of a UX audit: it inventories the codebase, walks the real flows in a browser, and writes an evidence-backed findings list. It does not pretend to prioritise.
+
+Each one packages a method from [product.inc/notes](https://www.product.inc/notes) into a skill file you can run in Claude Code or claude.ai. Free, MIT, no gate.
 
 | Skill | What it does | Page |
 | --- | --- | --- |
