@@ -11,7 +11,7 @@ Each one packages a method from [product.inc/notes](https://www.product.inc/note
 | Skill | What it does | Page |
 | --- | --- | --- |
 | [`ux-audit`](ux-audit/SKILL.md) v1.1.0 | A free Claude skill that does the findings pass of a UX audit: it inventories the codebase, walks the real flows in a browser, and writes an evidence-backed findings list. It does not pretend to prioritise. | [product.inc/skills/ux-audit](https://www.product.inc/skills/ux-audit) |
-| [`design-system-check`](design-system-check/SKILL.md) v1.0.0 | A free Claude skill that measures how much of an interface runs on its design system: it reads the token contract, counts every reference to it, and lists the escapes with file and line. It does not decide which escapes are defects. | [product.inc/skills/design-system-check](https://www.product.inc/skills/design-system-check) |
+| [`design-system-check`](design-system-check/SKILL.md) v1.0.1 | A free Claude skill that measures how much of an interface runs on its design system: it reads the token contract, counts every reference to it, and lists the escapes with file and line. It does not decide which escapes are defects. | [product.inc/skills/design-system-check](https://www.product.inc/skills/design-system-check) |
 | [`demo-recording`](demo-recording/SKILL.md) v1.0.0 | A free Claude skill that records a product demo as a script instead of a screen capture: it drives the real flow, asserts what each step should do, and renders a video that fails instead of playing once the product has changed. | [product.inc/skills/demo-recording](https://www.product.inc/skills/demo-recording) |
 
 ## Install
